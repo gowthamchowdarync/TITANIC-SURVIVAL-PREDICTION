@@ -1,0 +1,5 @@
+Model,CV_Accuracy_Mean,CV_Accuracy_Std,Test_Accuracy,ROC_AUC
+Logistic Regression,0.8231,0.0291,0.8380,0.8671
+Random Forest,0.8231,0.0196,0.8212,0.8439
+Gradient Boosting,0.8132,0.0179,0.8045,0.8254
+SVM,0.8329,0.0247,0.8268,0.8487
